@@ -11,5 +11,5 @@ bower install
 
 To view:
 ```
-grunt
+grunt serve
 ```
