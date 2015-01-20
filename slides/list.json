@@ -7,6 +7,12 @@
         "portability.md",
         "caching-cdn.html",
         "ultimate-proof-of-javascript-popularity.html"
-    ]
-
+    ],
+    [
+        "frameworks.md",
+        "future-ecma-script6.md",
+        "future-web-components.md"
+    ],
+    "setting-up.md",
+    "bower.md"
 ]
