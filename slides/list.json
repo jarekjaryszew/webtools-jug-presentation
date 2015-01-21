@@ -24,5 +24,7 @@
     ],
     "node-modules-for-your-project.md",
     "grunt.md",
-    "grunt-2.md"
+    "grunt-2.md",
+    "yeoman.md",
+    "yeoman-2.md"
 ]
