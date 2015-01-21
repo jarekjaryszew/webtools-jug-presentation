@@ -15,11 +15,14 @@
     ],
     "setting-up.md",
     [
-    "bower.md",
-    "bower-2.md",
-    "bower-3.md",
-    "bower-4.md",
-    "bower-5.md",
-    "bower-6.md"
-  ]
+        "bower.md",
+        "bower-2.md",
+        "bower-3.md",
+        "bower-4.md",
+        "bower-5.md",
+        "bower-6.md"
+    ],
+    "node-modules-for-your-project.md",
+    "grunt.md",
+    "grunt-2.md"
 ]
