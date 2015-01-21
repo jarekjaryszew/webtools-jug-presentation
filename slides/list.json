@@ -14,5 +14,12 @@
         "future-web-components.md"
     ],
     "setting-up.md",
-    "bower.md"
+    [
+    "bower.md",
+    "bower-2.md",
+    "bower-3.md",
+    "bower-4.md",
+    "bower-5.md",
+    "bower-6.md"
+  ]
 ]
