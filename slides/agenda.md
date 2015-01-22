@@ -7,7 +7,7 @@ What I will talk about:
 + Bower
 + Grunt
 + Gulp
-+ Yeoman
 + Testing
-+ Some examples
++ Yeoman
++ Examples and usage (little demo)
 + Q&A

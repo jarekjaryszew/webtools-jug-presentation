@@ -32,10 +32,21 @@
         "gruntfile-anatomy-2.md"
     ],
     [
-      "gulp.md",
-      "gulp-2.md",
-      "gulp-3.md"
+        "gulp.md",
+        "gulp-2.md",
+        "gulp-3.md"
     ],
+    [
+    "testing.md",
+    "karma.md",
+    "karma-2.md",
+    "karma-3.md",
+    "karma-4.md",
+    "karma-5.md",
+    "karma-6.md"
+  ],
+  [
     "yeoman.md",
     "yeoman-2.md"
+  ]
 ]
