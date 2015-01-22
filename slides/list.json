@@ -24,12 +24,17 @@
     ],
     "node-modules-for-your-project.md",
     [
-      "grunt.md",
-      "grunt-2.md",
-      "grunt-3.md",
-      "grunt-4.md",
-      "grunt-5.md",
-      "gruntfile-anatomy-2.md"
+        "grunt.md",
+        "grunt-2.md",
+        "grunt-3.md",
+        "grunt-4.md",
+        "grunt-5.md",
+        "gruntfile-anatomy-2.md"
+    ],
+    [
+      "gulp.md",
+      "gulp-2.md",
+      "gulp-3.md"
     ],
     "yeoman.md",
     "yeoman-2.md"
